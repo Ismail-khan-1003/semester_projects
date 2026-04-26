@@ -15,7 +15,7 @@ void doctor_details_function() {
         cout << "4. Dr. Taha Khattak\n";
         cout << "5. Dr. Hira Afridi\n";
         cout << "6. Dr. Talha Ashraf\n";
-        cout << "7. Dr. Alyan Wazir\n";
+        cout << "7. Dr. Arisha Azeem\n";
         cout << "8. Dr. baji Qamar Zaman\n";
         cout << "9. Dr. Laiba\n";
         cout << "10. Dr. Amna Durrani\n";
@@ -80,7 +80,7 @@ void doctor_details_function() {
                 break;
 
             case 7:
-                cout << "\nName: Dr. Alyan Wazir\n";
+                cout << "\nName: Dr. Arisha azeem\n";
                 cout << "Specialization: Gynecologist\n";
                 cout << "University: Ayub Medical College\n";
                 cout << "Batch: 2011 - 2016\n";
@@ -632,7 +632,7 @@ int main() {
     // -------- MAIN MENU --------
     int choice;
     do {
-        cout << "\n======== Welcome to H-M-S ========\n";
+        cout << "\n==== Welcome to IT H-M-S =====\n";
         cout << "1. Doctor Details Module\n";
         cout << "2. Nurse Details Module\n";
         cout << "3. Other Staff Details Module\n";
